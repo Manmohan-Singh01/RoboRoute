@@ -1,4 +1,3 @@
-statement.md
 # Problem Statement
 In automated robotics and grid-based pathfinding systems, simulating robot movement, obstacle avoidance, and resource management (such as battery levels and step counts) in dynamic environments is crucial before physical deployment.   
 
